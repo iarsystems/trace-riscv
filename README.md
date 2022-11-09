@@ -1,4 +1,4 @@
-# RISC-V Trace
+# IAR C-SPY Debugger Trace support for RISC-V
 
 The IAR C-SPY Debugger for RISC-V follows the RISC-V Nexus Trace specification.
 
@@ -13,8 +13,8 @@ The IAR C-SPY Debugger for RISC-V follows the RISC-V Nexus Trace specification.
 
 ## RISC-V Summit 
 Below you will find the IAR Systems slide handouts taken from presentations used during the [RISC-V Summit](https://riscvsummit.com).
-### 2020
-- Overview of RISC-V Trace [presentation](https://github.com/IARSystems/trace-riscv/blob/main/docs/riscv-v-summit-2020/risc-v-summit-2020-trace-overview-tutorial.pdf) | [Q&A transcript](https://github.com/IARSystems/trace-riscv/blob/main/docs/riscv-v-summit-2020/risc-v-summit-2020-trace-overview-tutorial-chat-with-answers.pdf)
 
-### 2019
-- Different trace methods and efficient ways to utilize them [presentation](https://github.com/IARSystems/trace-riscv/blob/main/docs/riscv-v-summit-2019/12.11-14.50b-Different-Trace-Methods-and-Efficient-Ways-to-Utilize-Them.pdf)
+| Year | Title | Presentation | Q&A |
+| ---- | ----- | ------- | ---------- |
+| 2020 | Overview of RISC-V Trace | [presentation](https://github.com/IARSystems/trace-riscv/blob/main/docs/riscv-v-summit-2020/risc-v-summit-2020-trace-overview-tutorial.pdf) | [transcript](https://github.com/IARSystems/trace-riscv/blob/main/docs/riscv-v-summit-2020/risc-v-summit-2020-trace-overview-tutorial-chat-with-answers.pdf) |
+| 2019 | Different trace methods and efficient ways to utilize them | [presentation](https://github.com/IARSystems/trace-riscv/blob/main/docs/riscv-v-summit-2019/12.11-14.50b-Different-Trace-Methods-and-Efficient-Ways-to-Utilize-Them.pdf) | NA |
