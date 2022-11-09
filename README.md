@@ -17,5 +17,5 @@ Below you will find the IAR Systems slide handouts taken from presentations used
 
 | Year | Title | Presentation | Q&A |
 | ---- | ----- | ------- | ---------- |
-| 2020 | Overview of RISC-V Trace | [presentation](https://github.com/IARSystems/trace-riscv/blob/main/docs/riscv-v-summit-2020/risc-v-summit-2020-trace-overview-tutorial.pdf) | [transcript](https://github.com/IARSystems/trace-riscv/blob/main/docs/riscv-v-summit-2020/risc-v-summit-2020-trace-overview-tutorial-chat-with-answers.pdf) |
-| 2019 | Different trace methods and efficient ways to utilize them | [presentation](https://github.com/IARSystems/trace-riscv/blob/main/docs/riscv-v-summit-2019/12.11-14.50b-Different-Trace-Methods-and-Efficient-Ways-to-Utilize-Them.pdf) | NA |
+| 2020 | Overview of RISC-V Trace | [PDF](https://github.com/IARSystems/trace-riscv/blob/main/docs/riscv-v-summit-2020/risc-v-summit-2020-trace-overview-tutorial.pdf) | [transcript](https://github.com/IARSystems/trace-riscv/blob/main/docs/riscv-v-summit-2020/risc-v-summit-2020-trace-overview-tutorial-chat-with-answers.pdf) |
+| 2019 | Different Trace Methods and Efficient Ways to Utilize Them | [PDF](https://github.com/IARSystems/trace-riscv/blob/main/docs/riscv-v-summit-2019/12.11-14.50b-Different-Trace-Methods-and-Efficient-Ways-to-Utilize-Them.pdf) \| [YouTube](https://youtube.com/watch?v=v9HkTUMsBik) | NA |
