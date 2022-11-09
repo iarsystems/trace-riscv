@@ -4,9 +4,9 @@ The IAR C-SPY Debugger for RISC-V follows the RISC-V Nexus Trace specification.
 
 ## Useful Resources
 - [Working repository of the RISC-V Nexus Trace TG](https://github.com/riscv-non-isa/tg-nexus-trace)
-   - Trace Control: https://github.com/riscv-non-isa/tg-nexus-trace/blob/master/docs/RISC-V-Trace-Control-Interface.adoc
-   - Nexus Message: https://github.com/riscv-non-isa/tg-nexus-trace/blob/master/docs/NexusTrace-TG-MessageDetails.adoc
-   - Trace Connectors: https://github.com/riscv-non-isa/tg-nexus-trace/blob/master/docs/NexusTrace-TG-Connectors.adoc
+   - [Trace Control](https://github.com/riscv-non-isa/tg-nexus-trace/blob/master/docs/RISC-V-Trace-Control-Interface.adoc)
+   - [Nexus Message]( https://github.com/riscv-non-isa/tg-nexus-trace/blob/master/docs/NexusTrace-TG-MessageDetails.adoc)
+   - [Trace Connectors](https://github.com/riscv-non-isa/tg-nexus-trace/blob/master/docs/NexusTrace-TG-Connectors.adoc)
 - Ratified RISC-V Processor Trace Spec. ([v1.0](https://github.com/riscv-non-isa/riscv-trace-spec/blob/e372bd36abc1b72ccbff31494a73a862367cbb29/riscv-trace-spec.pdf), March 2020)
 - Nexus IEEE-ISTO-5001 Trace Specification ([v3.0.1](http://nexus5001.org/wp-content/uploads/2018/05/IEEE-ISTO-5001-2012-v3.0.1-Nexus-Standard.pdf), June 2012)
 - MIPI Alliance Recommendations for Debug and Trace Connectors [link](https://mipi.org/sites/default/files/MIPI-Alliance-Recommendation-Debug-Trace-Connectors.pdf)
