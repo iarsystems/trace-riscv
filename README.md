@@ -1,4 +1,4 @@
-# IAR C-SPY Debugger Trace support for RISC-V
+# IAR C-SPY Trace support for RISC-V
 
 The IAR C-SPY Debugger for RISC-V follows the RISC-V Nexus Trace specification.
 
